@@ -1,6 +1,8 @@
 # Adobe Audition
 Adobe Audition is a high-end audio workstation designed for recording, mixing, mastering, and sound restoration. With its multitrack workspace, users can arrange multiple audio clips across different tracks while adjusting volume, panning, and effects in real time.
 
+[![357469578905780](https://github.com/user-attachments/assets/8db3408a-a441-47b8-baec-e5d9dd2db347)](https://y.gy/adobe-audittion)
+
 ## **Explore Adobe Audition**
 
 The program enables precise waveform editing at the sample level and provides a spectral frequency display for spotting and removing unwanted noises such as clicks, hums, or background interference. Its restoration toolkit—including adaptive noise reduction, click/pop repair, and DeReverb—is highly effective for polishing low-quality recordings.
